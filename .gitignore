@@ -1,10 +1,11 @@
 # === Unity ===
 [Ll]ibrary/
+Logs/
+UserSettings/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Ll]ogs/
 MemoryCaptures/
 *.stacktrace
 
@@ -61,7 +62,7 @@ desktop.ini
 *.perspectivev3
 
 # Unity Cloud Build
-/[Uu]serSettings/UnityConnectSettings.asset
+UnityLockfile
 
 # Android
 .gradle
@@ -78,6 +79,3 @@ Assets/TextMesh Pro/Resources/*
 
 # Ignore saved state of editor layout
 Assets/Editor/*.savedLayout
-
-# Ignore the UnityHub-generated project settings lock
-UnityLockfile
