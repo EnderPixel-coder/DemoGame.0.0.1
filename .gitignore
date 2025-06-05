@@ -1,0 +1,83 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+*.stacktrace
+
+# Visual Studio / JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Auto-generated VS settings
+.vs/
+
+# Unity-generated meta and cache files
+*.pidb.meta
+*.pdb
+*.mdb
+*.svd
+
+# Crash reports
+sysinfo.txt
+
+# Unity Collab (si no se usa)
+.collabignore
+.collab/
+
+# Addressable Asset System
+Assets/AddressableAssetsData/*/*.bin*
+Assets/AddressableAssetsData/*/*.link*
+
+# Rider
+*.sln.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.xcuser*
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Unity Cloud Build
+/[Uu]serSettings/UnityConnectSettings.asset
+
+# Android
+.gradle
+local.properties
+
+# WebGL
+Builds/WebGL/**/Build/
+
+# Unity Cache
+.cache/
+
+# Optional: TextMesh Pro (auto-generated)
+Assets/TextMesh Pro/Resources/*
+
+# Ignore saved state of editor layout
+Assets/Editor/*.savedLayout
+
+# Ignore the UnityHub-generated project settings lock
+UnityLockfile
